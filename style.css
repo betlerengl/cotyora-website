@@ -1,0 +1,20 @@
+
+body {
+    background-color: hsl(210, 16%, 93%);
+}
+
+.jumbotron {
+    color: yellow;
+    text-align: center;
+    background-color: grey;
+}
+
+footer {
+    text-align:center;
+    color:orange;
+}
+
+ul {
+    list-style-position:inside;
+    color:orange;
+}
